@@ -35,12 +35,6 @@ Install my-project with npm
     
 ## Run Locally
 
-Clone the project
-
-```bash
-  git clone https://github.com/tharun067/spendwise
-```
-
 Go to the project directory
 
 ```bash
